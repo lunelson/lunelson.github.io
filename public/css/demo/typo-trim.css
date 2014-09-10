@@ -1,9 +1,4 @@
-.marker {
-  height: 1.58114rem;
-  margin-bottom: -1.58114rem;
-  background-color: red; }
-
 .box {
   background-color: gray;
   overflow: hidden;
-  margin-top: 1.58114rem; }
+  margin-top: 2rem; }

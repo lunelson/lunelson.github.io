@@ -103,146 +103,146 @@ body {
 .giga {
   font-size: 4.096rem;
   line-height: 1.19629;
-  margin-top: 0.67042rem;
-  margin-bottom: -0.80368rem; }
+  margin-top: 0.6767rem;
+  margin-bottom: -0.96998rem; }
   .giga:first-child, .giga.trim-top {
-    margin-top: -0.91072rem; }
+    margin-top: -0.90444rem; }
 
 @media screen and (min-width: 20em) {
   .giga {
     line-height: 1.28174;
-    margin-top: 0.49542rem;
-    margin-bottom: -0.97868rem; }
+    margin-top: 0.5017rem;
+    margin-bottom: -1.14498rem; }
     .giga:first-child, .giga.trim-top {
-      margin-top: -1.08572rem; } }
+      margin-top: -1.07944rem; } }
 
 .mega {
   font-size: 3.23817rem;
   line-height: 1.29703;
-  margin-top: 0.71106rem;
-  margin-bottom: -0.79413rem; }
+  margin-top: 0.87662rem;
+  margin-bottom: -1.01675rem; }
   .mega:first-child, .mega.trim-top {
-    margin-top: -0.87007rem; }
+    margin-top: -0.70452rem; }
 
 @media screen and (min-width: 20em) {
   .mega {
     line-height: 1.15806;
-    margin-top: 0.93606rem;
-    margin-bottom: -0.56913rem; }
+    margin-top: 1.10162rem;
+    margin-bottom: -0.79175rem; }
     .mega:first-child, .mega.trim-top {
-      margin-top: -0.64507rem; } }
+      margin-top: -0.47952rem; } }
 
 .kilo {
   font-size: 2.56rem;
   line-height: 1.36719;
-  margin-top: 0.81162rem;
-  margin-bottom: -0.71491rem; }
+  margin-top: 1.04287rem;
+  margin-bottom: -0.94787rem; }
   .kilo:first-child, .kilo.trim-top {
-    margin-top: -0.76952rem; }
+    margin-top: -0.53827rem; }
 
 @media screen and (min-width: 20em) {
   .kilo {
     line-height: 1.17187;
-    margin-top: 1.06162rem;
-    margin-bottom: -0.46491rem; }
+    margin-top: 1.29287rem;
+    margin-bottom: -0.69787rem; }
     .kilo:first-child, .kilo.trim-top {
-      margin-top: -0.51952rem; } }
+      margin-top: -0.28827rem; } }
 
 .h1, h1 {
   font-size: 1.6rem;
   line-height: 1.3125;
-  margin-top: 1.15114rem;
-  margin-bottom: -0.40067rem; }
+  margin-top: 1.38447rem;
+  margin-bottom: -0.59667rem; }
   .h1:first-child, h1:first-child, .h1.trim-top, h1.trim-top {
-    margin-top: -0.43rem; }
+    margin-top: -0.19667rem; }
 
 @media screen and (min-width: 20em) {
   .h1, h1 {
     line-height: 1.40625;
-    margin-top: 1.07614rem;
-    margin-bottom: -0.47567rem; }
+    margin-top: 1.30947rem;
+    margin-bottom: -0.67167rem; }
     .h1:first-child, h1:first-child, .h1.trim-top, h1.trim-top {
-      margin-top: -0.505rem; } }
+      margin-top: -0.27167rem; } }
 
 .h2, h2 {
   font-size: 1.6rem;
   line-height: 1.3125;
-  margin-top: 1.15114rem;
-  margin-bottom: -0.40067rem; }
+  margin-top: 1.38447rem;
+  margin-bottom: -0.59667rem; }
   .h2:first-child, h2:first-child, .h2.trim-top, h2.trim-top {
-    margin-top: -0.43rem; }
+    margin-top: -0.19667rem; }
 
 @media screen and (min-width: 20em) {
   .h2, h2 {
     line-height: 1.40625;
-    margin-top: 1.07614rem;
-    margin-bottom: -0.47567rem; }
+    margin-top: 1.30947rem;
+    margin-bottom: -0.67167rem; }
     .h2:first-child, h2:first-child, .h2.trim-top, h2.trim-top {
-      margin-top: -0.505rem; } }
+      margin-top: -0.27167rem; } }
 
 .h3, h3 {
   font-size: 1.26491rem;
   line-height: 1.1068;
-  margin-top: 1.37328rem;
-  margin-bottom: -0.18599rem; }
+  margin-top: 1.58225rem;
+  margin-bottom: -0.35485rem; }
   .h3:first-child, h3:first-child, .h3.trim-top, h3.trim-top {
-    margin-top: -0.20786rem; }
+    margin-top: 0.00111rem; }
 
 @media screen and (min-width: 20em) {
   .h3, h3 {
     line-height: 1.18585;
-    margin-top: 1.32328rem;
-    margin-bottom: -0.23599rem; }
+    margin-top: 1.53225rem;
+    margin-bottom: -0.40485rem; }
     .h3:first-child, h3:first-child, .h3.trim-top, h3.trim-top {
-      margin-top: -0.25786rem; } }
+      margin-top: -0.04889rem; } }
 
 .h4, h4, p {
   font-size: 1rem;
   line-height: 1.4;
-  margin-top: 1.27145rem;
-  margin-bottom: -0.29323rem; }
+  margin-top: 1.45197rem;
+  margin-bottom: -0.43542rem; }
   .h4:first-child, h4:first-child, p:first-child, .h4.trim-top, h4.trim-top, p.trim-top {
-    margin-top: -0.30969rem; }
+    margin-top: -0.12917rem; }
 
 @media screen and (min-width: 20em) {
   .h4, h4, p {
     line-height: 1.5;
-    margin-top: 1.22145rem;
-    margin-bottom: -0.34323rem; }
+    margin-top: 1.40197rem;
+    margin-bottom: -0.48542rem; }
     .h4:first-child, h4:first-child, p:first-child, .h4.trim-top, h4.trim-top, p.trim-top {
-      margin-top: -0.35969rem; } }
+      margin-top: -0.17917rem; } }
 
 .h5, h5 {
   font-size: 0.79057rem;
   line-height: 1.77088;
-  margin-top: 1.19048rem;
-  margin-bottom: -0.37816rem; }
+  margin-top: 1.34277rem;
+  margin-bottom: -0.496rem; }
   .h5:first-child, h5:first-child, .h5.trim-top, h5.trim-top {
-    margin-top: -0.39065rem; }
+    margin-top: -0.23837rem; }
 
 @media screen and (min-width: 20em) {
   .h5, h5 {
     line-height: 1.89737;
-    margin-top: 1.14048rem;
-    margin-bottom: -0.42816rem; }
+    margin-top: 1.29277rem;
+    margin-bottom: -0.546rem; }
     .h5:first-child, h5:first-child, .h5.trim-top, h5.trim-top {
-      margin-top: -0.44065rem; } }
+      margin-top: -0.28837rem; } }
 
 .h6, h6 {
   font-size: 0.625rem;
   line-height: 1.12;
-  margin-top: 1.47618rem;
-  margin-bottom: -0.0954rem; }
+  margin-top: 1.60256rem;
+  margin-bottom: -0.19196rem; }
   .h6:first-child, h6:first-child, .h6.trim-top, h6.trim-top {
-    margin-top: -0.10496rem; }
+    margin-top: 0.02142rem; }
 
 @media screen and (min-width: 20em) {
   .h6, h6 {
     line-height: 1.2;
-    margin-top: 1.45118rem;
-    margin-bottom: -0.1204rem; }
+    margin-top: 1.57756rem;
+    margin-bottom: -0.21696rem; }
     .h6:first-child, h6:first-child, .h6.trim-top, h6.trim-top {
-      margin-top: -0.12996rem; } }
+      margin-top: -0.00358rem; } }
 
 .col {
   float: left;
@@ -353,8 +353,10 @@ img {
 
 - correct overflow not hidden in IE 9/10/11.
  */
-svg:not(:root) {
-  overflow: hidden; }
+svg {
+  max-height: 100%; }
+  svg:not(:root) {
+    overflow: hidden; }
 
 /* Grouping content
    ========================================================================== */
@@ -539,13 +541,15 @@ textarea {
 optgroup {
   font-weight: bold; }
 
-.site_header svg {
-  margin-bottom: 1rem; }
-  .site_header svg path {
-    stroke: #F2F1E1; }
+.site_header svg path {
+  stroke: #F2F1E1; }
+
+.site_name {
+  margin-top: 1.80333rem; }
 
 .site_block {
-  margin-top: 2.52982rem; }
+  padding-top: 1.26491rem;
+  padding-bottom: 1.26491rem; }
 
 .wrap--site {
   max-width: 640px; }
