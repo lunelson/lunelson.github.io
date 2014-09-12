@@ -6,4 +6,12 @@
 console.log('this test file was included');
 
 
+/*
 
+transitionEnd event listener from
+
+$('#my-div-with-css3-transition').one("webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend", function() {
+    // Do your jQuery magic here
+});
+
+ */
